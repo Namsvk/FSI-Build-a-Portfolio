@@ -5,6 +5,9 @@ body {
 h1 {
   color: blue;
 }
-img {
+.img1 {
   border-radius: 20px;
+}
+#navbar {
+  text-align: center;
 }
