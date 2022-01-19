@@ -1,3 +1,10 @@
+body {
+  background-color: #cccccc;
+  background-image: url("/images/Tileable\ High\ Res\ Paper\ Image\ Preview.jpeg");
+}
 h1 {
   color: blue;
+}
+img {
+  border-radius: 20px;
 }
