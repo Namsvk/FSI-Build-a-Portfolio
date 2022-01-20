@@ -1,13 +1,43 @@
 body {
-  background-color: #cccccc;
+  background-color: #c76b08;
   background-image: url("/images/Tileable\ High\ Res\ Paper\ Image\ Preview.jpeg");
+  cursor: context-menu;
 }
 h1 {
-  color: blue;
+  color: #941c5e;
+}
+#check {
+  color: #382f02;
 }
 .img1 {
   border-radius: 20px;
 }
+p.parah {
+  text-align: center;
+  font-family: sans-serif;
+}
 #navbar {
   text-align: center;
+  font-family: cursive;
+  cursor: alias;
+}
+div.contact {
+  text-align: right;
+  text-decoration: crimson;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: crosshair;
+}
+#aboutmyself {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: start;
+}
+h3.a1 {
+  color: darkblue;
+}
+h3.a2 {
+  color: darkslategray;
+}
+ul.list1 {
+  color: indigo;
 }
